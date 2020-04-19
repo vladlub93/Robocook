@@ -1,0 +1,29 @@
+body * {
+    margin: 0;
+    padding: 0;
+}
+
+
+#score {
+    text-align: start;
+    color: blue;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 50px;
+}
+
+.gameState {
+    justify-content: center;
+    color: blue;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 100px;
+
+}
+
+.gameState span {
+    position: absolute;
+    text-align: center;
+    top: 425px;
+    left: 680px;
+    display: none;
+}
+
